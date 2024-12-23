@@ -32,7 +32,7 @@ On hyperparameter tuning using grid search Cv i compared Logistic Regression and
 ├── training_set_features.csv
 ├── training_set_labels.csv
 ├── README.md
-├── H1N1_SeasonalFlu Vaccines_Presentation.pdf
+├── H1N1_SeasonalFlu Vaccines - Jupyter Notebook.pdf
 └── aviation.pdf
 ```
 
